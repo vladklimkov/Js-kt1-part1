@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td{
+    padding: 10px 20px;
+    border: 1px solid #000;
+    height: 30px;
+    width: 30px;
+}
+.bgOrange {
+    background-color: orange;
+}
+
+.bgWhite {
+    background-color: white;
+}
